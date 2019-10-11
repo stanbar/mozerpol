@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stasbar/mozerpol/static/css/main.b100e6da.chunk.css",
+    "main.js": "/stasbar/mozerpol/static/js/main.574d750b.chunk.js",
+    "main.js.map": "/stasbar/mozerpol/static/js/main.574d750b.chunk.js.map",
+    "runtime-main.js": "/stasbar/mozerpol/static/js/runtime-main.2354b3bf.js",
+    "runtime-main.js.map": "/stasbar/mozerpol/static/js/runtime-main.2354b3bf.js.map",
+    "static/js/2.9e0d29c4.chunk.js": "/stasbar/mozerpol/static/js/2.9e0d29c4.chunk.js",
+    "static/js/2.9e0d29c4.chunk.js.map": "/stasbar/mozerpol/static/js/2.9e0d29c4.chunk.js.map",
+    "index.html": "/stasbar/mozerpol/index.html",
+    "precache-manifest.131b98ef54a519e5ca6ddc17f6530696.js": "/stasbar/mozerpol/precache-manifest.131b98ef54a519e5ca6ddc17f6530696.js",
+    "service-worker.js": "/stasbar/mozerpol/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/stasbar/mozerpol/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/stasbar/mozerpol/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2354b3bf.js",
+    "static/js/2.9e0d29c4.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.574d750b.chunk.js"
+  ]
+}
