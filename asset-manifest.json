@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mozerpol/static/css/main.b100e6da.chunk.css",
-    "main.js": "/mozerpol/static/js/main.72fd4ba0.chunk.js",
-    "main.js.map": "/mozerpol/static/js/main.72fd4ba0.chunk.js.map",
+    "main.js": "/mozerpol/static/js/main.f97c333b.chunk.js",
+    "main.js.map": "/mozerpol/static/js/main.f97c333b.chunk.js.map",
     "runtime-main.js": "/mozerpol/static/js/runtime-main.750ae640.js",
     "runtime-main.js.map": "/mozerpol/static/js/runtime-main.750ae640.js.map",
     "static/css/2.06949f32.chunk.css": "/mozerpol/static/css/2.06949f32.chunk.css",
     "static/js/2.bacb4abe.chunk.js": "/mozerpol/static/js/2.bacb4abe.chunk.js",
     "static/js/2.bacb4abe.chunk.js.map": "/mozerpol/static/js/2.bacb4abe.chunk.js.map",
     "index.html": "/mozerpol/index.html",
-    "precache-manifest.76099f3e284cd21c54ffb0c49efcd838.js": "/mozerpol/precache-manifest.76099f3e284cd21c54ffb0c49efcd838.js",
+    "precache-manifest.31d6381344c75e876c3db478e803c44b.js": "/mozerpol/precache-manifest.31d6381344c75e876c3db478e803c44b.js",
     "service-worker.js": "/mozerpol/service-worker.js",
     "static/css/2.06949f32.chunk.css.map": "/mozerpol/static/css/2.06949f32.chunk.css.map",
     "static/css/main.b100e6da.chunk.css.map": "/mozerpol/static/css/main.b100e6da.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.06949f32.chunk.css",
     "static/js/2.bacb4abe.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.72fd4ba0.chunk.js"
+    "static/js/main.f97c333b.chunk.js"
   ]
 }
