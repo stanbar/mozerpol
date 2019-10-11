@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "596051f3962a450f076aa66ef8623e7a",
+    "revision": "d8fb34d5c6e6f66ca312697d013bb7fb",
     "url": "/mozerpol/index.html"
   },
   {
