@@ -47,10 +47,13 @@ class App extends React.Component {
   render() {
     const { posts } = this.state;
     return (
+      <div>
+      <img src="https://i.imgur.com/GAAhJ7v.jpg" alt="Stallman" width="100%"/>
       <div className="App" style={{
         paddingLeft: '20%', paddingRight: '20%',
           paddingBottom: '100px', paddingTop: '40px'}} >
 
+      <h1 style={{fontSize: '36', paddingBottom: '30px'}}>MOZERMAN</h1>
       <h1>Posts</h1>
       {posts && posts.map((post) => 
         (<Card>
@@ -67,6 +70,13 @@ class App extends React.Component {
         <h1>Create post</h1>
         <Editor style={{minHeight: '200px'}} text={this.state.text} onChange={this.handleChange}  />
         <Button onClick={this.createPost}>Create</Button>
+
+      <br/>
+      <br/>
+      <br/>
+        <Button variant="link" href="https://github.com/stasbar/mozerpol">Frontend open source</Button>
+        <Button variant="link" href="https://github.com/stasbar/mozerpol-backend">Backend open source</Button>
+      </div>
       </div>
     );
   }
