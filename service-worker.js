@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mozerpol/precache-manifest.fbd26b256397019df3dc0491064ebfee.js"
+  "/mozerpol/precache-manifest.76099f3e284cd21c54ffb0c49efcd838.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/mozerpol/static/css/main.b100e6da.chunk.css",
-    "main.js": "/mozerpol/static/js/main.0c53a383.chunk.js",
-    "main.js.map": "/mozerpol/static/js/main.0c53a383.chunk.js.map",
+    "main.js": "/mozerpol/static/js/main.72fd4ba0.chunk.js",
+    "main.js.map": "/mozerpol/static/js/main.72fd4ba0.chunk.js.map",
     "runtime-main.js": "/mozerpol/static/js/runtime-main.750ae640.js",
     "runtime-main.js.map": "/mozerpol/static/js/runtime-main.750ae640.js.map",
-    "static/js/2.9e0d29c4.chunk.js": "/mozerpol/static/js/2.9e0d29c4.chunk.js",
-    "static/js/2.9e0d29c4.chunk.js.map": "/mozerpol/static/js/2.9e0d29c4.chunk.js.map",
+    "static/css/2.06949f32.chunk.css": "/mozerpol/static/css/2.06949f32.chunk.css",
+    "static/js/2.bacb4abe.chunk.js": "/mozerpol/static/js/2.bacb4abe.chunk.js",
+    "static/js/2.bacb4abe.chunk.js.map": "/mozerpol/static/js/2.bacb4abe.chunk.js.map",
     "index.html": "/mozerpol/index.html",
-    "precache-manifest.fbd26b256397019df3dc0491064ebfee.js": "/mozerpol/precache-manifest.fbd26b256397019df3dc0491064ebfee.js",
+    "precache-manifest.76099f3e284cd21c54ffb0c49efcd838.js": "/mozerpol/precache-manifest.76099f3e284cd21c54ffb0c49efcd838.js",
     "service-worker.js": "/mozerpol/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/mozerpol/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/mozerpol/static/media/logo.25bf045c.svg"
+    "static/css/2.06949f32.chunk.css.map": "/mozerpol/static/css/2.06949f32.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/mozerpol/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.750ae640.js",
-    "static/js/2.9e0d29c4.chunk.js",
+    "static/css/2.06949f32.chunk.css",
+    "static/js/2.bacb4abe.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.0c53a383.chunk.js"
+    "static/js/main.72fd4ba0.chunk.js"
   ]
 }
