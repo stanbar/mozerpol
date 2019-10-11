@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5365f6a927872cd8103a62964c4c4215",
+    "revision": "9099d1e06c751337ec7c649e647395e6",
     "url": "/mozerpol/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mozerpol/static/css/2.06949f32.chunk.css"
   },
   {
-    "revision": "45b23ca83563a5ce35af",
+    "revision": "52ae7e663fab2299cbf2",
     "url": "/mozerpol/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mozerpol/static/js/2.bacb4abe.chunk.js"
   },
   {
-    "revision": "45b23ca83563a5ce35af",
-    "url": "/mozerpol/static/js/main.f97c333b.chunk.js"
+    "revision": "52ae7e663fab2299cbf2",
+    "url": "/mozerpol/static/js/main.72fd4ba0.chunk.js"
   },
   {
     "revision": "b0bf23001626bccbdeb8",
