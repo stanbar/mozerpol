@@ -6,7 +6,7 @@ import { Button, Card } from 'react-bootstrap';
 import axios from 'axios';
 require('medium-editor/dist/css/medium-editor.css');
 require('medium-editor/dist/css/themes/default.css');
-const host = 'https://home.stasbar.com'
+const host = 'https://home.stasbar.com:9999'
 class App extends React.Component {
   state = {
     text: "Enter post here",
